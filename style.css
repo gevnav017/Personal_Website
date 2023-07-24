@@ -36,3 +36,13 @@ a:hover {
 .img {
     width: 50px;
 }
+
+.form-input-div:hover {
+    color: white;
+    background-color: blue;
+}
+
+input {
+    margin: 8px;
+    padding: 8px;
+}
